@@ -30,3 +30,8 @@ Windows 构建（EN / DE / FR）：**[GitHub Releases](https://github.com/weib32
 ## 许可
 
 MIT。
+
+## 第三方组件
+
+- 工具内捆绑 [Fido](https://github.com/pbatard/Fido)（GPL-3.0-or-later），用于解析微软官方镜像直链，其许可证文本随包分发。
+

@@ -54,3 +54,8 @@ BackToWin promises one thing: your machine **boots and reaches the internet — 
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Credits
+
+- [Fido](https://github.com/pbatard/Fido) (GPL-3.0-or-later) — bundled for official Windows image link resolution; its license text ships with the tool.
+
